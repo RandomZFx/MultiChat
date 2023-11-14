@@ -2,6 +2,12 @@
 Migrate Streaming Platforms chats into one for easy reading with terminal or with a webpage.
 
 
+## Features
+
+* Kick Chat reader.
+* Twitch Chat reader.
+* Message logging into file for each platform and all platforms combined.
+
 # Project Plans
 
 - Integrate Live.Space
